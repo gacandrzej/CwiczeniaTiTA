@@ -1,4 +1,4 @@
-# Kurs przygotowujący do egzaminu zawodowego INF.04
+# Kurs tworzenie i testowanie aplikacji
 
 Repozytorium zawiera materiały dydaktyczne, zadania powtórzeniowe
 oraz analizy oficjalnych arkuszy CKE z egzaminu zawodowego **INF.04**.
@@ -6,7 +6,7 @@ Kurs jest dedykowany dla uczniów klas 5 technikum informatycznego.
 
 ## 🎯 Cel kursu
 
-Kompleksowe przygotowanie uczniów do części praktycznej egzaminu zawodowego w kwalifikacji INF.04, ze szczególnym naciskiem na:
+Przygotowanie uczniów do części praktycznej egzaminu zawodowego w kwalifikacji INF.04, ze szczególnym naciskiem na:
 
 * Programowanie obiektowe i aplikacyjne (Java, Kotlin, aplikacje desktopowe i mobilne).
 * Projektowanie, tworzenie i administrowanie bazami danych (SQL, JDBC).
