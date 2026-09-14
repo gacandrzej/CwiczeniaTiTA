@@ -59,9 +59,13 @@ Materiały źródłowe, pliki do zadań oraz arkusze egzaminacyjne zostały podz
 ### Aplikacje desktopowe
 
 * **[INF.04-01-23.01-SG](./arkusze/2023-styczen)** – *Dane pracownika i generowanie hasła*
+
   Aplikacja do zarządzania danymi pracowników z modułem losowania bezpiecznych haseł na podstawie zaznaczonych kryteriów.
+
 * **[INF.04-01-23.06-SG](./arkusze/2023-czerwiec)** – *Obsługa poczty (nadaj przesyłkę)*
+
   Formularz wyboru rodzaju przesyłki (list, paczka) z dynamicznym obliczaniem i wyświetlaniem kosztu dostawy.
+  
 * **[INF.04-01-24.01-SG](./arkusze/2024-styczen)** – *Wprowadzanie danych do paszportu*
   Formularz pobierający dane osobowe, numer PESEL, kolor oczu oraz zdjęcie do wniosku paszportowego.
 * **[INF.04-02-24.06-SG](./arkusze/2024-czerwiec)** – *Interfejs graficzny odtwarzacza muzyki*
