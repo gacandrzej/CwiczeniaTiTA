@@ -65,46 +65,77 @@ Materiały źródłowe, pliki do zadań oraz arkusze egzaminacyjne zostały podz
 * **[INF.04-01-23.06-SG](./arkusze/2023-czerwiec)** – *Obsługa poczty (nadaj przesyłkę)*
 
   Formularz wyboru rodzaju przesyłki (list, paczka) z dynamicznym obliczaniem i wyświetlaniem kosztu dostawy.
-  
+
 * **[INF.04-01-24.01-SG](./arkusze/2024-styczen)** – *Wprowadzanie danych do paszportu*
+
   Formularz pobierający dane osobowe, numer PESEL, kolor oczu oraz zdjęcie do wniosku paszportowego.
+
 * **[INF.04-02-24.06-SG](./arkusze/2024-czerwiec)** – *Interfejs graficzny odtwarzacza muzyki*
+
   Grajka muzyczna z widokiem okładki, przyciskami sterowania (Play/Pause) oraz licznikiem odtworzeń.
+
 * **[INF.04-01-25.06-SG](./arkusze/2025-czerwiec)** – *Wybór kolorów z palety RGB*
+
   Interfejs ze suwakami RGB pozwalający na dynamiczną zmianę koloru tła oraz podgląd wartości w kodzie szesnastkowym.
+
 * **[INF.04-02-25.06-SG](./arkusze/2025-czerwiec)** – *Szyfr Cezara i zapis do pliku*
+
   Narzędzie tekstowe do szyfrowania i deszyfrowania wiadomości z opcją zapisu wyniku do pliku.
 
 ### Aplikacje webowe (front-end)
 
 * **[INF.04-02-22.06-SG](./arkusze/2022-czerwiec)** – *Zapisy na kursy*
+
   Formularz rejestracyjny na szkolenia z listą rozwijaną i walidacją pól wejściowych.
+
 * **[INF.04-03-23.06-SG](./arkusze/2023-czerwiec) / [INF.04-01-23.06-SD](./arkusze/2023-czerwiec)** – *Obsługa formularza*
+
   Komponenty interaktywne reagujące na zdarzenia formularza i walidujące wprowadzane dane.
+
 * **[INF.04-01-25.01-SG](./arkusze/2025-styczen)** – *Kategoryzacja zdjęć w galerii*
+
   Galeria zdjęć z możliwością filtrowania po kategoriach i dynamicznym podglądem wybranego obrazu.
 
 ### Aplikacje mobilne
 
 * **[INF.04-informator](./arkusze/informator)** – *Galeria zdjęć*
+
   Prosta przeglądarka zdjęć z możliwością przełączania slajdów i polubień.
+
 * **[INF.04-01-21.06-SG](./arkusze/2021-czerwiec) / [INF.04-01-22.01-SG](./arkusze/2022-styczen)** – *Rejestracja konta*
+
   Formularz zakładdania konta z weryfikacją powtórzonego hasła i komunikatem sukcesu.
+
 * **[INF.04-01-22.06-SG](./arkusze/2022-czerwiec)** – *Domek w górach*
+
   Ekran rezerwacji domku wypoczynkowego z polubieniami i licznikiem zgłoszeń.
+
 * **[INF.04-02-23.01-SG](./arkusze/2023-styczen) / [INF.04-01-23.01-SD](./arkusze/2023-styczen)** – *Proste notatki tekstowe*
+
   Lista notatek z możliwością dodawania nowych wpisów i czyszczenia pól formularza.
+
 * **[INF.04-02-23.06-SG](./arkusze/2023-czerwiec)** – *Właściwości czcionki*
+
   Aplikacja pozwalająca na dynamiczną zmianę rozmiaru, stylu i zawartości wyświetlanego tekstu.
+
 * **[INF.04-02-24.01-SG](./arkusze/2024-styczen) / [INF.04-01-24.01-SD](./arkusze/2024-styczen) / [INF.04-01-24.06-SD](./arkusze/2024-czerwiec)** – *Wizyta u weterynarza*
+
   Formularz umawiania wizyt ze zwierzęciem (wybór gatunku, celu wizyty i suwak wieku).
+
 * **[INF.04-01-24.06-SG](./arkusze/2024-czerwiec) / [INF.04-01-25.01-SD](./arkusze/2025-styczen)** – *Gra w kości*
+
   Symulator rzutu 5 kośćmi z podliczaniem zdobytych punktów zgodnie z regułami gry.
+
 * **[INF.04-02-25.01-SG](./arkusze/2025-styczen) / [INF.04-01-25.06-SD](./arkusze/2025-czerwiec)** – *Urządzenia domowe*
+
   Panel do zarządzania stanem urządzeń Smart Home (włączanie/wyłączanie, zmiana parametrów).
+
 * **[INF.04-01-26.01-SG](./arkusze/2026-styczen)** – *Gra w kości*
+
   Wariant symulatora gry w kości z resetowaniem wyniku i modyfikacją zasad punktacji.
+
 * **[INF.04-02-26.01-SG](./arkusze/2026-styczen)** – *Quiz dotyczący gór*
+
   Aplikacja quizowa z pytaniami jednokrotnego wyboru i podsumowaniem wyników.
 
 ---
